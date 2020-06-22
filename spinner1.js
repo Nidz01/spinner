@@ -1,3 +1,5 @@
+/* one full animation of this nearly completed "spinner", so that it completes a full circle
+*/
 process.stdout.write('hello from spinner1.js... \rheyyy\n');
 setTimeout(() => {
   process.stdout.write('\r|   ');
